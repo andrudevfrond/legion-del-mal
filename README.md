@@ -13,5 +13,5 @@ Un reporsitorio para conquistar el mundo
 
 Basicamente aporendemos mas sobre git y github con este proyecto
 
-se modica para genrar un solo cambio
+se modica para genrar un solo cambio en el nuevo repositorio unido con un solo cambio
 
