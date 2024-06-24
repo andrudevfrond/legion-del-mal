@@ -12,3 +12,6 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 Un reporsitorio para conquistar el mundo
 
 Basicamente aporendemos mas sobre git y github con este proyecto
+
+se modica para genrar un solo cambio
+
