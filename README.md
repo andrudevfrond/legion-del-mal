@@ -8,3 +8,7 @@ Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 
 ## Curso de Fernando en Udemy
+
+Un reporsitorio para conquistar el mundo
+
+Basicamente aporendemos mas sobre git y github con este proyecto
